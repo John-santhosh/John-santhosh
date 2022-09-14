@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John-santhosh 😀
 - 👀 I’m interested in Full stack develpoment 👨‍💻
 - 🌱 I’m currently learning Front End 🧑‍💻
-- 💞️ I’m looking to collaborate on Enterprise Projects 😎😎
+- 💞️ I’m looking to collaborate on Basic Enterprise Projects 😎😎
 - 📫 How to reach me - johnsantosh2@gmail.com 📩
 
 <!---

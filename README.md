@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack develpoment 👨‍💻
 - 🌱 I’m currently working on my React skills 🧑‍💻
 - 🧩 Intrested in JavaScript and its libraries
-- 💞️ I’m looking to collaborate on Basic Enterprise Projects 😎😎
+- 💞️ I’m looking to collaborate on Enterprise Projects 😎😎
 - 📫 How to reach me - johnsantosh2@gmail.com 📩
 
 <!---
